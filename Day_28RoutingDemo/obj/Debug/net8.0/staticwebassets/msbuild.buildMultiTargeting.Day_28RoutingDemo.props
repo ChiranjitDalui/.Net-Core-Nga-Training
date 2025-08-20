@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Day_28RoutingDemo.props" />
+</Project>

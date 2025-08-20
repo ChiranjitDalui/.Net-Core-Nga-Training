@@ -1,0 +1,45 @@
+﻿@page
+@model Day26_RazorIntro.Pages.Shared.Demo1Model
+@{
+	ViewData["Title"] = "Demo1";
+
+	// C# Code Block
+
+	string greeting = "Hello, World from Razor page model";
+
+	int counter = 10;
+}
+
+<h1> @greeting </h1>
+
+<p> The current UTC time is : @DateTime.UtcNow</p>
+
+<h3> Conditional example</h3>
+
+@if(counter > 5)
+{
+	<p>Counter is greater than 5, Counter is @counter</p>
+}
+else
+{
+	<p>Counter is less than or equal to 5</p>
+}
+
+<h3> Loop example</h3>	
+@for(int i = 0; i < 10; i++)
+{
+	<p>Counter value is @i</p>
+}	
+
+<h2> Accessing property define in onGet() and onPost()</h2>
+<form method="post">
+	<label for="name">Enter your name:</label>
+
+	<input type="text" id="name" name="name"/>
+	<button type="submit">Submit</button>
+</form>
+
+<p>
+	Your name is: @Model.Message
+</p>
+

@@ -1,0 +1,13 @@
+@model Day27_BookCatalog.Models.Book
+@* This is a partial view for displaying book details in both initial render and AJAX *@
+
+<div class="card mb-3">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+        <p class="card-text">Author: @Model.Author</p>
+        <p class="card-text">Genre: @Model.Genre</p>
+        <p class="card-text">Published Date: @Model.PublishedDate.ToShortDateString()</p>
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+        <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>
+    </div>
+</div>

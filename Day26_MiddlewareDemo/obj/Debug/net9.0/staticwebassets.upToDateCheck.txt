@@ -1,0 +1,8 @@
+E:\week 5 dotnetcore recap\MiddlewareDemo\wwwroot\script.js
+E:\week 5 dotnetcore recap\MiddlewareDemo\wwwroot\index.html
+E:\week 5 dotnetcore recap\MiddlewareDemo\wwwroot\Hello.txt
+E:\week 5 dotnetcore recap\MiddlewareDemo\wwwroot\style.css
+wwwroot\Hello.txt
+wwwroot\index.html
+wwwroot\script.js
+wwwroot\style.css

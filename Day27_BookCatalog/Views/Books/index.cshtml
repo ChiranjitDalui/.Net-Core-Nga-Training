@@ -1,0 +1,52 @@
+@model List<Day27_BookCatalog.Models.Book>
+
+
+<h1>Book Catalog</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Genre</th>
+            <th>Published Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Genre</td>
+                <td>@book.PublishedDate.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@book.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@book.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+@* 
+Book List  *@
+
+<h3> Book Collection</h3>
+<div itemid="book-collection">
+    <ul>
+        @foreach (var book in Model)
+        {
+           <partial name="_BookCard" model="book" />
+           @* partial view *@
+        }
+    </ul>
+</div>
+@section Scripts {
+    <script>
+        // Custom JavaScript can go here
+    </script>
+}

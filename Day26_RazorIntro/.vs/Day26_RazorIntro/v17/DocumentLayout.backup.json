@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\week 5 dotnetcore recap\\Day26_RazorIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4A018-FBE1-4D3D-B4E6-8949C4915A7E}|Day26_RazorIntro.csproj|e:\\week 5 dotnetcore recap\\day26_razorintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE4A018-FBE1-4D3D-B4E6-8949C4915A7E}|Day26_RazorIntro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4A018-FBE1-4D3D-B4E6-8949C4915A7E}|Day26_RazorIntro.csproj|e:\\week 5 dotnetcore recap\\day26_razorintro\\pages\\shared\\demo1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE4A018-FBE1-4D3D-B4E6-8949C4915A7E}|Day26_RazorIntro.csproj|solutionrelative:pages\\shared\\demo1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4A018-FBE1-4D3D-B4E6-8949C4915A7E}|Day26_RazorIntro.csproj|e:\\week 5 dotnetcore recap\\day26_razorintro\\pages\\shared\\demo1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4A018-FBE1-4D3D-B4E6-8949C4915A7E}|Day26_RazorIntro.csproj|solutionrelative:pages\\shared\\demo1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo1.cshtml.cs",
+              "DocumentMoniker": "E:\\week 5 dotnetcore recap\\Day26_RazorIntro\\Pages\\Shared\\Demo1.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\Demo1.cshtml.cs",
+              "ToolTip": "E:\\week 5 dotnetcore recap\\Day26_RazorIntro\\Pages\\Shared\\Demo1.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shared\\Demo1.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:16:19.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo1.cshtml",
+              "DocumentMoniker": "E:\\week 5 dotnetcore recap\\Day26_RazorIntro\\Pages\\Shared\\Demo1.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\Demo1.cshtml",
+              "ToolTip": "E:\\week 5 dotnetcore recap\\Day26_RazorIntro\\Pages\\Shared\\Demo1.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\Demo1.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T08:11:42.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\week 5 dotnetcore recap\\Day26_RazorIntro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\week 5 dotnetcore recap\\Day26_RazorIntro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:03:43.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
