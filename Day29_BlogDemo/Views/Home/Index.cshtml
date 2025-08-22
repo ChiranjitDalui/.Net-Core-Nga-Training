@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="bg-light p-5 mb-4 rounded-3 shadow-sm">
+    <div class="container py-5">
+        <h1 class="display-4 fw-bold">Welcome to Day29 Blog & Products</h1>
+        <p class="lead">
+            Explore our <strong>Products</strong> with detailed descriptions and pricing, 
+            and read our latest <strong>Blog posts</strong> for insights and tutorials.
+        </p>
+        <a asp-controller="Product" asp-action="Index" class="btn btn-primary btn-lg me-2">View Products</a>
+        <a asp-controller="Blog" asp-action="Index" class="btn btn-outline-dark btn-lg">Read Blog</a>
+    </div>
+</div>
+
+
+<div class="row text-center">
+    <div class="col-md-6">
+        <div class="card shadow-sm mb-4">
+            <div class="card-body">
+                <h5 class="card-title">Products</h5>
+                <p class="card-text">Browse through our collection of products with descriptions and pricing details.</p>
+                <a asp-controller="Product" asp-action="Index" class="btn btn-dark">Explore Products</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card shadow-sm mb-4">
+            <div class="card-body">
+                <h5 class="card-title">Blog</h5>
+                <p class="card-text">Read articles, tips, and tutorials written to guide and inspire you.</p>
+                <a asp-controller="Blog" asp-action="Index" class="btn btn-dark">Visit Blog</a>
+            </div>
+        </div>
+    </div>
+</div>

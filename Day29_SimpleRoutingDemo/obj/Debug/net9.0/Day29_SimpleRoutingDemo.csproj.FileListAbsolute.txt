@@ -1,0 +1,195 @@
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\bin\Debug\net9.0\appsettings.Development.json
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\bin\Debug\net9.0\appsettings.json
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.staticwebassets.runtime.json
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.staticwebassets.endpoints.json
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.exe
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.deps.json
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.runtimeconfig.json
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.dll
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.pdb
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.AssemblyInfoInputs.cache
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.AssemblyInfo.cs
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.csproj.CoreCompileInputs.cache
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.MvcApplicationPartsAssemblyInfo.cache
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.RazorAssemblyInfo.cache
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.RazorAssemblyInfo.cs
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.sourcelink.json
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\scopedcss\bundle\Day29_SimpleRoutingDemo.styles.css
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\scopedcss\projectbundle\Day29_SimpleRoutingDemo.bundle.scp.css
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\2ub6w108u4-b9sayid5wm.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\v0jhrm06w7-61n19gt1b8.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\z0hf47vi29-xtxxf3hu2r.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\wtmsjoul14-bqjiyaj88i.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\wdfhl6vjal-c2jlpeoesf.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\ptsd90l43u-erw9l3u2r3.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\g98v5mjz1u-aexeepp0ev.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\m1sa24wup5-d7shbmvgxk.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\wo5usvr1ou-ausgxo2sd3.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\okudfksxnb-k8d9w2qqmf.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\2xk4zgdsux-cosvhxvwiu.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\sfci9evdd1-ub07r2b239.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\7qfl6xhlzc-fvhpjtyr6v.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\a2d0f3o73y-b7pk76d08c.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\rjknc2m2nd-fsbi9cje9m.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\uobo43ha0o-rzd6atqjts.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\lque7a38fy-ee0r1s7dh0.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\bhjl5fjcwn-dxx9fxp4il.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\yt78wir2q7-jd9uben2k1.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\t7zs0zwq0j-khv3u5hwcm.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\fp2juooziq-r4e9w2rdcm.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\3ic00wztcr-lcd1t2u6c8.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\d7h6v3zyzi-c2oey78nd0.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\b36ryx79ca-tdbxkamptv.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\q9d7x2dtnh-j5mq2jizvt.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\jk7sex5csb-06098lyss8.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\dfih51dvo6-nvvlpmu67g.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\3tx7q7cbix-s35ty4nyc5.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\p2oaxu5gjp-pj5nd1wqec.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\gnq7btskot-46ein0sx1k.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\lajtioe9on-v0zj4ognzu.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\4tfpqvio58-37tfw0ft22.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\nbgaj0kjif-hrwsygsryq.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\ftgz8wxu35-pk9g2wxc8p.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\42aej8aata-ft3s53vfgj.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\qxmhchv6tk-6cfz1n2cew.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\dk0g9l2aw2-6pdc2jztkx.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\n0tf3haaos-493y06b0oq.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\jjiii6ntws-iovd86k7lj.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\qtwchywh5n-vr1egmr9el.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\ns3elu4b97-kbrnm935zg.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\b8ej1u0s78-jj8uyg4cgr.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\xr62rhgdcz-y7v9cxd14o.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\3oe1pkppct-notf2xhcfb.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\3zqcz39u01-h1s4sie4z3.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\pio5n0x4l1-63fj8s7r0e.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\r32t30t7en-0j3bgjxly4.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\cns4mzalb3-47otxtyo56.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\sawgnt5oou-4v8eqarkd7.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\80z48k3v57-356vix0kms.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\zmowsp4fuw-83jwlth58m.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\impsey5k7z-mrlpezrjn3.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\vkh5jm3qe6-lzl9nlhx6b.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\nzox4dbr2l-ag7o75518u.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\bzjy7ngm8s-x0q3zqp4vz.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\bwr5b05tb0-0i3buxo5is.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\qfvwv8k1aq-o1o13a6vjx.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\835j99etl6-ttgo8qnofa.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\ya7f24qiwx-2z0ns9nrw6.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\bp91e0gghr-muycvpuwrr.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\1l135t2r9s-87fc7y1x7t.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\209vuscttx-mlv21k5csn.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\nf0efjwj0c-tnejs0f956.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\fwqz1x08w9-tnejs0f956.gz
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\staticwebassets.build.json
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\staticwebassets.development.json
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\staticwebassets\msbuild.Day29_SimpleRoutingDemo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\staticwebassets\msbuild.Day29_SimpleRoutingDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\staticwebassets\msbuild.build.Day29_SimpleRoutingDemo.props
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Day29_SimpleRoutingDemo.props
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Day29_SimpleRoutingDemo.props
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\staticwebassets.pack.json
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.dll
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\refint\Day29_SimpleRoutingDemo.dll
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.pdb
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.genruntimeconfig.cache
+E:\week 5 dotnetcore recap\Day29_SimpleRoutingDemo\obj\Debug\net9.0\ref\Day29_SimpleRoutingDemo.dll
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\bin\Debug\net9.0\appsettings.Development.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\bin\Debug\net9.0\appsettings.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.staticwebassets.runtime.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.staticwebassets.endpoints.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.exe
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.deps.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.runtimeconfig.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.dll
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\bin\Debug\net9.0\Day29_SimpleRoutingDemo.pdb
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.AssemblyInfoInputs.cache
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.AssemblyInfo.cs
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.csproj.CoreCompileInputs.cache
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.RazorAssemblyInfo.cache
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.RazorAssemblyInfo.cs
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.sourcelink.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\scopedcss\bundle\Day29_SimpleRoutingDemo.styles.css
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\scopedcss\projectbundle\Day29_SimpleRoutingDemo.bundle.scp.css
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\2ub6w108u4-lugek5hnai.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\v0jhrm06w7-61n19gt1b8.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\z0hf47vi29-fr7q2aak1r.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\wtmsjoul14-bqjiyaj88i.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\wdfhl6vjal-c2jlpeoesf.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\ptsd90l43u-erw9l3u2r3.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\g98v5mjz1u-aexeepp0ev.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\m1sa24wup5-d7shbmvgxk.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\wo5usvr1ou-ausgxo2sd3.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\okudfksxnb-k8d9w2qqmf.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\2xk4zgdsux-cosvhxvwiu.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\sfci9evdd1-ub07r2b239.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\7qfl6xhlzc-fvhpjtyr6v.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\a2d0f3o73y-b7pk76d08c.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\rjknc2m2nd-fsbi9cje9m.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\uobo43ha0o-rzd6atqjts.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\lque7a38fy-ee0r1s7dh0.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\bhjl5fjcwn-dxx9fxp4il.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\yt78wir2q7-jd9uben2k1.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\t7zs0zwq0j-khv3u5hwcm.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\fp2juooziq-r4e9w2rdcm.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\3ic00wztcr-lcd1t2u6c8.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\d7h6v3zyzi-c2oey78nd0.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\b36ryx79ca-tdbxkamptv.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\q9d7x2dtnh-j5mq2jizvt.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\jk7sex5csb-06098lyss8.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\dfih51dvo6-nvvlpmu67g.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\3tx7q7cbix-s35ty4nyc5.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\p2oaxu5gjp-pj5nd1wqec.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\gnq7btskot-46ein0sx1k.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\lajtioe9on-v0zj4ognzu.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\4tfpqvio58-37tfw0ft22.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\nbgaj0kjif-hrwsygsryq.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\ftgz8wxu35-pk9g2wxc8p.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\42aej8aata-ft3s53vfgj.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\qxmhchv6tk-6cfz1n2cew.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\dk0g9l2aw2-6pdc2jztkx.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\n0tf3haaos-493y06b0oq.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\jjiii6ntws-iovd86k7lj.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\qtwchywh5n-vr1egmr9el.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\ns3elu4b97-kbrnm935zg.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\b8ej1u0s78-jj8uyg4cgr.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\xr62rhgdcz-y7v9cxd14o.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\3oe1pkppct-notf2xhcfb.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\3zqcz39u01-h1s4sie4z3.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\pio5n0x4l1-63fj8s7r0e.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\r32t30t7en-0j3bgjxly4.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\cns4mzalb3-47otxtyo56.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\sawgnt5oou-4v8eqarkd7.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\80z48k3v57-l3n5xuwxn8.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\zmowsp4fuw-ilo7uva0vt.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\impsey5k7z-qlccset4i1.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\vkh5jm3qe6-lzl9nlhx6b.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\nzox4dbr2l-ag7o75518u.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\bzjy7ngm8s-xzw0cte36n.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\bwr5b05tb0-0i3buxo5is.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\qfvwv8k1aq-o1o13a6vjx.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\835j99etl6-ttgo8qnofa.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\ya7f24qiwx-2z0ns9nrw6.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\bp91e0gghr-muycvpuwrr.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\1l135t2r9s-87fc7y1x7t.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\209vuscttx-jfsiqqwiad.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\nf0efjwj0c-tnejs0f956.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\compressed\fwqz1x08w9-tnejs0f956.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\staticwebassets.build.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\staticwebassets.development.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.dll
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\refint\Day29_SimpleRoutingDemo.dll
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.pdb
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\Day29_SimpleRoutingDemo.genruntimeconfig.cache
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_SimpleRoutingDemo\obj\Debug\net9.0\ref\Day29_SimpleRoutingDemo.dll

@@ -1,0 +1,35 @@
+@model Day29_BlogDemo.Models.Product
+
+<div class="container mt-5">
+    <div class="card mx-auto shadow-lg border-0 rounded-4" style="max-width: 600px;">
+        <div class="card-body p-4">
+            <h1 class="text-center text-primary mb-4 fw-bold">Create Product</h1>
+
+            <form asp-action="Create" method="post" class="needs-validation" novalidate>
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label fw-semibold"></label>
+                    <input asp-for="Name" class="form-control form-control-lg rounded-3" placeholder="Enter product name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Description" class="form-label fw-semibold"></label>
+                    <textarea asp-for="Description" rows="3" class="form-control form-control-lg rounded-3" placeholder="Enter product description"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="mb-4">
+                    <label asp-for="Price" class="form-label fw-semibold"></label>
+                    <input asp-for="Price" class="form-control form-control-lg rounded-3" placeholder="Enter price" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-success btn-lg rounded-pill">
+                        ✅ Create Product
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

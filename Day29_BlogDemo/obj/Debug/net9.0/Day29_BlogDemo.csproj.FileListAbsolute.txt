@@ -1,0 +1,195 @@
+E:\week 5 dotnetcore recap\Day29_BlogDemo\bin\Debug\net9.0\appsettings.Development.json
+E:\week 5 dotnetcore recap\Day29_BlogDemo\bin\Debug\net9.0\appsettings.json
+E:\week 5 dotnetcore recap\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.staticwebassets.runtime.json
+E:\week 5 dotnetcore recap\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.staticwebassets.endpoints.json
+E:\week 5 dotnetcore recap\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.exe
+E:\week 5 dotnetcore recap\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.deps.json
+E:\week 5 dotnetcore recap\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.runtimeconfig.json
+E:\week 5 dotnetcore recap\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.dll
+E:\week 5 dotnetcore recap\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.pdb
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.AssemblyInfoInputs.cache
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.AssemblyInfo.cs
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.csproj.CoreCompileInputs.cache
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.MvcApplicationPartsAssemblyInfo.cache
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.RazorAssemblyInfo.cache
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.RazorAssemblyInfo.cs
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.sourcelink.json
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\scopedcss\bundle\Day29_BlogDemo.styles.css
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\scopedcss\projectbundle\Day29_BlogDemo.bundle.scp.css
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\07tvcougcm-b9sayid5wm.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\i7mjjso3zt-61n19gt1b8.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\ogcqf5vdi8-xtxxf3hu2r.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\loorjvyvgw-bqjiyaj88i.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\21vvio2t05-c2jlpeoesf.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\t27tcif1rt-erw9l3u2r3.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\9ajo91x5sp-aexeepp0ev.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\mytzl86ysi-d7shbmvgxk.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\adhfms6mst-ausgxo2sd3.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\jn9nbpy5c1-k8d9w2qqmf.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\3cfjk847im-cosvhxvwiu.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\nvb8dxdqfc-ub07r2b239.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\3adg8ifnor-fvhpjtyr6v.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\i163ftl64k-b7pk76d08c.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\apz245pbus-fsbi9cje9m.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\9fel26c6vt-rzd6atqjts.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\iiob3mhsp6-ee0r1s7dh0.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\0xesyfakih-dxx9fxp4il.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\zbob9uuqgy-jd9uben2k1.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\3rjlwt8eli-khv3u5hwcm.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\guwbllp3su-r4e9w2rdcm.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\60n61wu7id-lcd1t2u6c8.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\gmspwcfk8h-c2oey78nd0.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\h6jp2dnbo2-tdbxkamptv.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\pbox82d8x4-j5mq2jizvt.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\udwc6ns2qn-06098lyss8.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\dr1h9k3ucj-nvvlpmu67g.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\yq4n4lpi7b-s35ty4nyc5.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\3vlrcsn5mw-pj5nd1wqec.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\29fgeo4f72-46ein0sx1k.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\u0c9xgd2hj-v0zj4ognzu.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\08w7mz8s1x-37tfw0ft22.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\yvmez5rw1z-hrwsygsryq.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\hw6bz74wni-pk9g2wxc8p.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\5hl8t6jl4l-ft3s53vfgj.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\f45bdcau1e-6cfz1n2cew.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\oguoq70sg2-6pdc2jztkx.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\yquxfergm5-493y06b0oq.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\ur15opql7n-iovd86k7lj.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\40ah3m2zu6-vr1egmr9el.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\ewwnawyhcu-kbrnm935zg.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\1ae9j09igm-jj8uyg4cgr.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\jm9tbl7aqt-y7v9cxd14o.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\6hjbbhlpju-notf2xhcfb.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\58l4exp8b2-h1s4sie4z3.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\yo872ajhp4-63fj8s7r0e.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\drx4qy8bk5-0j3bgjxly4.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\e9cahyd5ae-47otxtyo56.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\80nvkuducr-4v8eqarkd7.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\ipkhsed8qk-356vix0kms.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\aonfws4acu-83jwlth58m.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\3oiduibo2l-mrlpezrjn3.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\uvjk8bt9qd-lzl9nlhx6b.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\n6a9jy13ez-ag7o75518u.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\20gwk51k0q-x0q3zqp4vz.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\lyjyg2zsca-0i3buxo5is.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\rfgvkism6a-o1o13a6vjx.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\d3v6ucdfyq-ttgo8qnofa.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\7zmoo94us8-2z0ns9nrw6.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\4495f9su79-muycvpuwrr.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\yhyqqiqlrm-87fc7y1x7t.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\r5fqjxs0ws-mlv21k5csn.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\yifzaf9c4c-tze7s2x0gp.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\compressed\nx6e8s7u12-tze7s2x0gp.gz
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\staticwebassets.build.json
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\staticwebassets.development.json
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\staticwebassets\msbuild.Day29_BlogDemo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\staticwebassets\msbuild.Day29_BlogDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\staticwebassets\msbuild.build.Day29_BlogDemo.props
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Day29_BlogDemo.props
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Day29_BlogDemo.props
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\staticwebassets.pack.json
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.dll
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\refint\Day29_BlogDemo.dll
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.pdb
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.genruntimeconfig.cache
+E:\week 5 dotnetcore recap\Day29_BlogDemo\obj\Debug\net9.0\ref\Day29_BlogDemo.dll
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\bin\Debug\net9.0\appsettings.Development.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\bin\Debug\net9.0\appsettings.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.staticwebassets.runtime.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.staticwebassets.endpoints.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.exe
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.deps.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.runtimeconfig.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.dll
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\bin\Debug\net9.0\Day29_BlogDemo.pdb
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.AssemblyInfoInputs.cache
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.AssemblyInfo.cs
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.csproj.CoreCompileInputs.cache
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.RazorAssemblyInfo.cache
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.RazorAssemblyInfo.cs
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.sourcelink.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\scopedcss\bundle\Day29_BlogDemo.styles.css
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\scopedcss\projectbundle\Day29_BlogDemo.bundle.scp.css
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\07tvcougcm-lugek5hnai.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\i7mjjso3zt-61n19gt1b8.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\ogcqf5vdi8-fr7q2aak1r.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\loorjvyvgw-bqjiyaj88i.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\21vvio2t05-c2jlpeoesf.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\t27tcif1rt-erw9l3u2r3.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\9ajo91x5sp-aexeepp0ev.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\mytzl86ysi-d7shbmvgxk.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\adhfms6mst-ausgxo2sd3.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\jn9nbpy5c1-k8d9w2qqmf.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\3cfjk847im-cosvhxvwiu.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\nvb8dxdqfc-ub07r2b239.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\3adg8ifnor-fvhpjtyr6v.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\i163ftl64k-b7pk76d08c.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\apz245pbus-fsbi9cje9m.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\9fel26c6vt-rzd6atqjts.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\iiob3mhsp6-ee0r1s7dh0.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\0xesyfakih-dxx9fxp4il.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\zbob9uuqgy-jd9uben2k1.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\3rjlwt8eli-khv3u5hwcm.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\guwbllp3su-r4e9w2rdcm.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\60n61wu7id-lcd1t2u6c8.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\gmspwcfk8h-c2oey78nd0.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\h6jp2dnbo2-tdbxkamptv.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\pbox82d8x4-j5mq2jizvt.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\udwc6ns2qn-06098lyss8.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\dr1h9k3ucj-nvvlpmu67g.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\yq4n4lpi7b-s35ty4nyc5.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\3vlrcsn5mw-pj5nd1wqec.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\29fgeo4f72-46ein0sx1k.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\u0c9xgd2hj-v0zj4ognzu.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\08w7mz8s1x-37tfw0ft22.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\yvmez5rw1z-hrwsygsryq.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\hw6bz74wni-pk9g2wxc8p.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\5hl8t6jl4l-ft3s53vfgj.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\f45bdcau1e-6cfz1n2cew.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\oguoq70sg2-6pdc2jztkx.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\yquxfergm5-493y06b0oq.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\ur15opql7n-iovd86k7lj.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\40ah3m2zu6-vr1egmr9el.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\ewwnawyhcu-kbrnm935zg.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\1ae9j09igm-jj8uyg4cgr.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\jm9tbl7aqt-y7v9cxd14o.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\6hjbbhlpju-notf2xhcfb.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\58l4exp8b2-h1s4sie4z3.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\yo872ajhp4-63fj8s7r0e.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\drx4qy8bk5-0j3bgjxly4.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\e9cahyd5ae-47otxtyo56.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\80nvkuducr-4v8eqarkd7.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\ipkhsed8qk-l3n5xuwxn8.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\aonfws4acu-ilo7uva0vt.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\3oiduibo2l-qlccset4i1.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\uvjk8bt9qd-lzl9nlhx6b.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\n6a9jy13ez-ag7o75518u.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\20gwk51k0q-xzw0cte36n.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\lyjyg2zsca-0i3buxo5is.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\rfgvkism6a-o1o13a6vjx.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\d3v6ucdfyq-ttgo8qnofa.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\7zmoo94us8-2z0ns9nrw6.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\4495f9su79-muycvpuwrr.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\yhyqqiqlrm-87fc7y1x7t.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\r5fqjxs0ws-jfsiqqwiad.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\yifzaf9c4c-tze7s2x0gp.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\compressed\nx6e8s7u12-tze7s2x0gp.gz
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\staticwebassets.build.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\staticwebassets.development.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.dll
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\refint\Day29_BlogDemo.dll
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.pdb
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\Day29_BlogDemo.genruntimeconfig.cache
+D:\Wipro-Nga-ASP_DotNet_Core\Day29_BlogDemo\obj\Debug\net9.0\ref\Day29_BlogDemo.dll
