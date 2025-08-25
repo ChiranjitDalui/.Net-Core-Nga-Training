@@ -1,0 +1,24 @@
+@* using Microsoft.AspNetCore.Mvc;
+using MvcADO_Demo.Data;
+using MvcADO_Demo.Models; *@
+@{
+    ViewData["Title"] = "Create Product";
+}
+
+
+<h1>Create Product</h1>
+<div class="container">
+    <form asp-action="Create" method="post">
+        <div class="form-group">
+            <label >Name</label>
+        <input type="text" name="name" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label >Price</label>
+        <input type="number" name="price" step="0.01" class="form-control" />
+    </div>
+    <div class="form-button">
+        <button type="submit" class="btn btn-primary">Create</button>
+    </div>
+</form>
+</div>

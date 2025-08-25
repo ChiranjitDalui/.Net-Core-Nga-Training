@@ -1,0 +1,47 @@
+@using MvcADO_Demo.Models
+@using System.Data
+@model DataSet //Model is of type DataSet
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h2> Products</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Tables.Count > 0)
+        {
+            var productsTable = Model.Tables[0];
+            foreach (DataRow row in productsTable.Rows)
+            {
+                <tr>
+                    <td>@row["ProductID"]</td> @* <-- THIS IS THE CORRECTED LINE *@
+                    <td>@row["Name"]</td>
+                    <td>@row["Price"]</td>
+                </tr>
+
+
+                @* Add this cell inside your foreach loop *@
+                <td>
+                    <form asp-action="Delete" asp-route-id="@row["ProductID"]" method="post">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            }
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Create">Create New Product</a>
+</div>
+
+
